@@ -1,0 +1,3 @@
+#String reverse
+string=input()
+print(string[-1])
